@@ -1,0 +1,25 @@
+{
+  "name": "mmm-krwexchangerate",
+  "version": "1.0.0",
+  "description": "KRW exchange rate for MagicMirror",
+  "main": "MMM-KRWExchangeRate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceship/MMM-KRWExchangeRate.git"
+  },
+  "keywords": [
+    "MagicMirror"
+  ],
+  "author": "Juil Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iceship/MMM-KRWExchangeRate/issues"
+  },
+  "homepage": "https://github.com/iceship/MMM-KRWExchangeRate#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
